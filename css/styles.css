@@ -81,6 +81,8 @@ a:hover {
   text-decoration: underline;
 }
 
+
+
 .drive-img {
   width: 25%;
   float: left;
@@ -155,9 +157,15 @@ a:hover {
   margin-right: 30px;
 }
 
-.trophy-img {
+.web-img {
   width: 25%;
   float: left;
+  margin-right: 30px;
+}
+
+.trophy-img {
+  width: 25%;
+  float: right;
   margin-right: 30px;
 }
 
